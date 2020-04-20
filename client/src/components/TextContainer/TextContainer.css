@@ -9,6 +9,9 @@
 .title{
   color: aliceblue;
 }
+.git{
+  height:;
+}
 
 .activeContainer {
   display: flex;
@@ -28,6 +31,10 @@
 
 .textContainer h1 {
   margin-bottom: 0px;
+}
+.link {
+  color: aliceblue;
+
 }
 
 @media (min-width: 320px) and (max-width: 1200px) {
