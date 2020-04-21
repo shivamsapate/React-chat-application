@@ -1,4 +1,4 @@
-# Chat Application with made with Reactjs
+# Chat Application made with Reactjs
 
 ### [Live Demo](https://shivamsapate-react-chating-app.netlify.app)
 
